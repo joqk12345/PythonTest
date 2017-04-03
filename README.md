@@ -7,3 +7,6 @@
 ## urllibtest.py
 ## wiki.py   
 ## wiki2mysql.py 
+## readpdf.py
+    *  pdfminer3k的库 使用
+    
